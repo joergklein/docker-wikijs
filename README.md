@@ -83,25 +83,25 @@ link/ether 02:42:5d:50:ff:be brd ff:ff:ff:ff:ff:ff
 inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
 valid_lft forever preferred_lft forever
 ```
-** The IP Address is: ** `172.17.0.1`
+**The IP Address is:** `172.17.0.1`
 
 ## Set up an new Proxy Host
 
 Configure the details.
 
-<img src="images/proxy-host-wiki.png" alt="New Proxy Host">
+<img src="images/wiki-proxy.png" alt="Wiki Proxy Host">
 
 ## Set a Let's Encrypt certificate
 
 Change to SSL.
 
-<img src="images/proxy-host-ssl-wiki.png" alt="Edit Proxy Host">
+<img src="images/wiki-ssl.png" alt="Wiki SSL">
 
 ## The result of the configuration
 
 The configuration details.
 
-<img src="images/proxy-host.png" alt="Proxy Host">
+<img src="images/wiki-hosts.png" alt="Proxy Wiki Host">
 
 ## Login to the web UI of Wikijs
 
